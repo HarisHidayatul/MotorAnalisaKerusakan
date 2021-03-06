@@ -1,0 +1,18 @@
+.Menu{
+    display: inline-block;
+    font-size: 20px;
+    height: fit-content;
+    *position: relative;
+    *top: 1px;
+}
+.Menu Link{
+    display: inline-block;
+    padding: 0 20px;
+    margin-right: 1px;
+    background:gray;
+    color: white;
+    text-decoration: none;
+}
+.Menu Link:hover{
+    background: black;
+}
